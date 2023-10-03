@@ -38,10 +38,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2018 - 2023
-      items: 
-        - Nagoya University Global 30 scholarship
-      description: Hello world
-    - year: 2023
-      items: 
-        - Japanese Government MEXT scholarship
+    - title: Nagoya University Global 30 scholarship
+      institution: Merit-based scholarship for highly gifted international students
+      year: 2018 - 2023
+    - title: MEXT scholarship
+      institution: Government of Japan scholarship granted for my studies in Japan (declined).
+      year: 2023
