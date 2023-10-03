@@ -19,4 +19,4 @@ I'm currently pursuing my Master's in Robotics and Automation Technologies at FA
 
 I earned my Bachelor's degree from Nagoya University, Japan, with a focus on Robotics and Control. Over the years, I've been fortunate to work on a variety of projects spanning robotics, signal processing, and haptics.
 
-I also had the privilege of spending 3 months at the Max Planck Institute for Intelligent Systems in Tubingen, Germany, mentored by [Cansu Sancaktar](https://scholar.google.com/citations?user=9JqNY7UAAAAJ&hl=en), [Marco Bagatella](https://marbaga.github.io/) and [Prof. Georg Martius](https://scholar.google.de/citations?user=b-JF-UIAAAAJ&hl=en).
+I also had the privilege of spending 3 months at the Max Planck Institute for Intelligent Systems in Tubingen, Germany, advised by [Cansu Sancaktar](https://scholar.google.com/citations?user=9JqNY7UAAAAJ&hl=en), [Marco Bagatella](https://marbaga.github.io/) and [Prof. Georg Martius](https://scholar.google.de/citations?user=b-JF-UIAAAAJ&hl=en).
