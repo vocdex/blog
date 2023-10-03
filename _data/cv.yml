@@ -1,10 +1,8 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Shukrullo Nazirjonov
-    - name: Email
-      value: nazirjonovsh2000@gmail.com
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Full Name
+#       value: Shukrullo Nazirjonov
 
 - title: Education
   type: time_table
@@ -13,13 +11,13 @@
       institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
       year: 2023- Present
       description:
-        - Autonomy Technologies
+        - Autonomy Technologies, Specialization in Robotics and Automation
       
     - title: Bachelor of Engineering
       institution: Nagoya University, Nagoya, Japan
       year: 2018-2023
       description:
-        - Mechanical and Aerospace Engineering, with focus on Robotics and Control
+        - Mechanical and Aerospace Engineering
 
 - title: Experience
   type: time_table
@@ -43,6 +41,7 @@
     - year: 2018 - 2023
       items: 
         - Nagoya University Global 30 scholarship
+      summary: Merit-based scholarship
     - year: 2023
       items: 
         - Japanese Government MEXT scholarship
