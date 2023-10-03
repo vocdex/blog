@@ -14,7 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 
 social: false  # includes social icons at the bottom of the page
 ---
-
 I'm currently pursuing my Master's in Robotics and Automation Technologies at FAU Erlangen-Nürnberg. My core areas of interest are model-based reinforcement learning, contrastive representation learning, teleoperation, and tactile-haptic interfaces for robotic manipulation.
 
 I earned my Bachelor's degree from Nagoya University, Japan, with a focus on Robotics and Control. Over the years, I've been fortunate to work on a variety of projects spanning robotics, signal processing, and haptics.
