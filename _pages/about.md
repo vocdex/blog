@@ -15,6 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello! I am a recent graduate of Nagoya University in Japan. I am currently doing an internship at Max Planck Institute for Intelligent Systems in Tubingen, Germany. I am interested at the intersection of robotics and natural language processing, especially how we can build intelligent robots that will need least of human supervision and operate via language instructions.     
-  
-My current research includes contrastive learning, 6D pose estimation, and tactile-haptic interfaces for robotics.
+I'm currently pursuing my Master's in Robotics and Automation Technologies at FAU Erlangen-Nürnberg. My core areas of interest are model-based reinforcement learning, contrastive representation learning, teleoperation, and tactile-haptic interfaces for robotic manipulation.
+
+I earned my Bachelor's degree from Nagoya University, Japan, with a focus on Robotics and Control. Over the years, I've been fortunate to work on a variety of projects spanning robotics, signal processing, and haptics.
+
+This summer, I also had the privilege of spending 3 months at the Max Planck Institute for Intelligent Systems in Tubingen, Germany, mentored by [Cansu Sancaktar](https://scholar.google.com/citations?user=9JqNY7UAAAAJ&hl=en), [Marco Bagatella](https://marbaga.github.io/) and [Prof. Georg Martius](https://scholar.google.de/citations?user=b-JF-UIAAAAJ&hl=en).
