@@ -110,9 +110,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-  gallery:
+  misc:
     output: true
-    permalink: /gallery/:path/
+    permalink: /misc/:path/
 
 news_limit: 5
 
